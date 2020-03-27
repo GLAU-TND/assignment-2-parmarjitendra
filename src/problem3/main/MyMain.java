@@ -13,11 +13,11 @@ import problem3.myqueue.MyPriorityQueue;
 public class MyMain {
     public static void main(String[] args) {
         MyPriorityQueue obj = new MyPriorityQueue();
-        obj.insert("tushar",1);
-        obj.insert("kartik",4);
-        obj.insert("yash",3);
-        obj.insert("pranjul",2);
-        obj.insert("jalanki",5);
+        obj.insert("jitendra",1);
+        obj.insert("parmar",4);
+        obj.insert("rahul",3);
+        obj.insert("ishank",2);
+        obj.insert("vaishnavi",5);
         obj.display();
     }
 }
